@@ -61,9 +61,9 @@ The result should be formatted in JSON with this exact structure on the standard
 
 1. Overlapping months of experience with the same skill(s) should not be counted twice, see [assets/months-overlap.png](./assets/months-overlap.png)
 2. All professional experiences `startDate` and `endDate` values will be on the first day of the month.
-3. You script will be executed like this : `node exercise.js`
-4. We're using node 8.11.3 for the execution
-5. You can use any npm package you want
+3. You script will be executed like this : `python exercise.py`
+4. We're using python 3 for the execution
+5. You can use any libraries you want, please provide requirements.txt
 6. If there's an error in the json file, exit without printing anything
 7. The duration in months should be rounded
 
@@ -73,7 +73,7 @@ The result should be formatted in JSON with this exact structure on the standard
 2. Problem solving
 3. Documentation
 4. Use of tests
-5. Smart use of Node.js library and packages
+5. Smart use of Python library and packages
 6. Respect of KISS and DRY principles
 7. Use of git commits
 
