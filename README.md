@@ -62,7 +62,7 @@ The result should be formatted in JSON with this exact structure on the standard
 1. Overlapping months of experience with the same skill(s) should not be counted twice, see [assets/months-overlap.png](./assets/months-overlap.png)
 2. All professional experiences `startDate` and `endDate` values will be on the first day of the month.
 3. You script will be executed like this : `node exercise.js`
-4. We're using node 8.11.3 for the execution
+4. We're using node 10.15.0 for the execution
 5. You can use any npm package you want
 6. If there's an error in the json file, exit without printing anything
 7. The duration in months should be rounded

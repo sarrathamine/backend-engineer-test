@@ -4,7 +4,7 @@
   "description": "comet backend engineer test",
   "dependencies": {},
   "engines": {
-    "node": "8.4.0"
+    "node": "10.15.0"
   },
   "author": "comet team",
   "license": "MIT",
