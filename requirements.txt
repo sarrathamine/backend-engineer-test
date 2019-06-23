@@ -1,0 +1,8 @@
+Exercise requirements
+
+In this exercise, the following libraries have been used:
+os : to check file exists in path
+sys : to exit in case of error
+json : to serialize / deserialize json
+datetime.datetime : datetime management
+unittest : for unit tests
