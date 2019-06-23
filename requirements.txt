@@ -6,3 +6,6 @@ sys : to exit in case of error
 json : to serialize / deserialize json
 datetime.datetime : datetime management
 unittest : for unit tests
+
+To run tests, type :
+python test.py
